@@ -48,8 +48,19 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 
 平面
 [ Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610647.pdf)
+[DVI: Depth Guided Video Inpainting for Autonomous Driving ](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf)
+点云融入单目深度自动驾驶场景
 
 
+# Depth complite
+[Sparse-to-Dense Depth Completion Revisited:Sampling Strategy and Graph Construction?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660681.pdf)
 
-# Object dynamic move segmentation depth 
+
+# Object dynamic move segmentation 
 [Learning Object Depth from Camera Motion and Video Object Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520290.pdf)
+
+# Depth and 3D object detection 
+[Towards Generalization Across Depth for Monocular 3D Object Detection ](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670766.pdf)
+
+# Depth application  
+[Dual Grid Net: Hand Mesh Vertex Regression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
