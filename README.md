@@ -65,6 +65,7 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 
 # Depth and 3D object detection 
 [ECCV2020][Towards Generalization Across Depth for Monocular 3D Object Detection ](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670766.pdf)
+[CVPR2020 感知论文](https://zhuanlan.zhihu.com/p/151596272)
 
 # Depth application  
 [ECCV2020][Dual Grid Net: Hand Mesh Vertex Regression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
