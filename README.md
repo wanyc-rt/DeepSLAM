@@ -66,7 +66,8 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 # Depth and 3D object detection 
 [ECCV2020][Towards Generalization Across Depth for Monocular 3D Object Detection ](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670766.pdf)
 [CVPR2020 感知论文](https://zhuanlan.zhihu.com/p/151596272)
-
+[CVPR2020][IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for
+Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf) 双目目标检测
 # Depth application  
 [ECCV2020][Dual Grid Net: Hand Mesh Vertex Regression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
 
