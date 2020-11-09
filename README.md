@@ -55,6 +55,9 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 
 # Depth complite
 [ECCV2020][Sparse-to-Dense Depth Completion Revisited:Sampling Strategy and Graph Construction?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660681.pdf)
+[ICRA2019][Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion)
+
+
 
 
 # Object dynamic move segmentation 
@@ -65,3 +68,6 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 
 # Depth application  
 [ECCV2020][Dual Grid Net: Hand Mesh Vertex Regression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
+
+#  Monocular 6D Object Pose Estimation
+[ECCV2020]Self6D: Self-Supervised Monocular 6D Object Pose Estimation
