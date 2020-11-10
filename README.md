@@ -70,6 +70,6 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf) 双目目标检测
 # Depth application  
 [ECCV2020][Dual Grid Net: Hand Mesh Vertex Regression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
-
+[ICRA2019][Plug-and-Play: Improve Depth Prediction via Sparse Data Propagation](https://arxiv.org/pdf/1812.08350.pdf)
 #  Monocular 6D Object Pose Estimation
 [ECCV2020]Self6D: Self-Supervised Monocular 6D Object Pose Estimation
