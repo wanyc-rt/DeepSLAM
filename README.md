@@ -54,15 +54,26 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 点云融入单目深度自动驾驶场景
 [IROS2020][Self-Supervised Attention Learning for Depth and Ego-Motion Estimation](https://ras.papercept.net/proceedings/IROS20/0078.pdf)
 [IROS2020][UnRectDepthNet: Self-Supervised Monocular Depth Estimation Using a Generic Framework for Handling Common Camera Distortion Models](https://ras.papercept.net/proceedings/IROS20/0504.pdf)
+
 [IROS2020][Deep Depth Estimation from Visual-Inertial SLAM](https://ras.papercept.net/proceedings/IROS20/0714.pdf)
 - [Code](https://github.com/MARSLab-UMN/vi_depth_completion) 深度融合IMU
+
 [IROS2020][DUI-VIO: Depth Uncertainty Incorporated Visual Inertial Odometrybased on an RGB-D Camera](https://ras.papercept.net/proceedings/IROS20/0784.pdf) VIO 
+
 [IROS2020][Underwater Monocular Image Depth Estimation Using Single-Beam Echosounder
 ](https://ras.papercept.net/proceedings/IROS20/0791.pdf) 水下单目深度估计 
+
 [IROS2020][DiPE: Deeper into Photometric Errors for Unsupervised Learning of Depth and Ego-Motion from Monocular Videos](https://ras.papercept.net/proceedings/IROS20/0845.pdf) 香港大学 Photometir Error 增加mask条件
+
 [IROS2020][Toward Hierarchical Self-Supervised Monocular Absolute Depth Estimation for Autonomous Driving Applications](https://ras.papercept.net/proceedings/IROS20/0898.pdf) 统计法线找平面 单目绝对深度估计
+
 [IROS2020][Video Depth Estimation by Fusing Flow-to-Depth Proposals](https://ras.papercept.net/proceedings/IROS20/1028.pdf)
-[IROS2020][Unsupervised Depth and Confidence Prediction from Monocular Images Using Bayesian Inference]()
+
+[IROS2020][Unsupervised Depth and Confidence Prediction from Monocular Images Using Bayesian Inference](https://ras.papercept.net/proceedings/IROS20/1057.pdf)深度不确定性估计
+
+[IROS2020][Monocular Depth Prediction through Continuous 3D Loss](https://ras.papercept.net/proceedings/IROS20/1328.pdf)
+- [code](https://youtu.be/5HL8BjSAY4Y) 3D loss
+[IROS2020][MSDPN: Monocular Depth Prediction with Partial Laser Observation using Multi-stage Neural Networks](https://ras.papercept.net/proceedings/IROS20/1752.pdf)
 [IROS2020][]()
 [IROS2020][]()
 
@@ -70,8 +81,12 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 [ECCV2020][Sparse-to-Dense Depth Completion Revisited:Sampling Strategy and Graph Construction?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660681.pdf)
 [ICRA2019][Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion)
 
+[IROS2020][Depth Completion Via Inductive Fusion of Planar LIDAR and Monocular Camera ](https://ras.papercept.net/proceedings/IROS20/1560.pdf)面雷达深度补全
 
-
+[IROS2020][Depth Estimation from Monocular Images and Sparse Radar Data](https://ras.papercept.net/proceedings/IROS20/1623.pdf)
+[IROS2020][Balanced Depth Completion between Dense Depth Inference and Sparse Range Measurements Via KISS-GP](https://ras.papercept.net/proceedings/IROS20/2118.pdf)
+[IROS2020][]()
+[IROS2020][]()
 
 ## Object dynamic move segmentation 
 [ECCV2020][Learning Object Depth from Camera Motion and Video Object Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520290.pdf)
@@ -84,7 +99,7 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 [CVPR2020][IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for
 Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf) 双目目标检测
 [IROS2020][Confidence Guided Stereo 3D Object Detection with Split Depth Estimation](https://ras.papercept.net/proceedings/IROS20/0123.pdf) 双目融合深度目标检测
-[IROS2020][]()
+
 [IROS2020][]()
 
 [CVPR2020][Learning Depth-Guided Convolutions for Monocular 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
