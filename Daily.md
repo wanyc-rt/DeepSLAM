@@ -1,6 +1,11 @@
 ## 科研笔记
 
+## 11.12 
+[IROS2020]DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR
 
+光流和深度 与下面文章有相似之处
+[IROS2020]Monocular Depth Prediction through Continuous 3D Loss
+这两篇论文可以用3D loss 来约束稀疏雷达深度补全
 
 
 
