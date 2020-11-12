@@ -121,3 +121,6 @@ Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_
 
 ## Sence flow estimation 
 [IROS2020][DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR](https://arxiv.org/pdf/2008.08136.pdf)
+- 光流和深度 与下面文章有相似之处
+- [IROS2020][Monocular Depth Prediction through Continuous 3D Loss](https://ras.papercept.net/proceedings/IROS20/1328.pdf)
+
