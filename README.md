@@ -52,7 +52,9 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 [ECCV2020][ Joint 3D Layout and Depth Prediction from a Single Indoor Panorama Image](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610647.pdf)
 [DVI: Depth Guided Video Inpainting for Autonomous Driving ](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660001.pdf)
 点云融入单目深度自动驾驶场景
+
 [IROS2020][Self-Supervised Attention Learning for Depth and Ego-Motion Estimation](https://ras.papercept.net/proceedings/IROS20/0078.pdf)
+
 [IROS2020][UnRectDepthNet: Self-Supervised Monocular Depth Estimation Using a Generic Framework for Handling Common Camera Distortion Models](https://ras.papercept.net/proceedings/IROS20/0504.pdf)
 
 [IROS2020][Deep Depth Estimation from Visual-Inertial SLAM](https://ras.papercept.net/proceedings/IROS20/0714.pdf)
@@ -73,18 +75,23 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 
 [IROS2020][Monocular Depth Prediction through Continuous 3D Loss](https://ras.papercept.net/proceedings/IROS20/1328.pdf)
 - [code](https://youtu.be/5HL8BjSAY4Y) 3D loss
+
 [IROS2020][MSDPN: Monocular Depth Prediction with Partial Laser Observation using Multi-stage Neural Networks](https://ras.papercept.net/proceedings/IROS20/1752.pdf)
+
 [IROS2020][]()
 [IROS2020][]()
 
 ## Depth complite
 [ECCV2020][Sparse-to-Dense Depth Completion Revisited:Sampling Strategy and Graph Construction?](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660681.pdf)
+
 [ICRA2019][Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion)
 
 [IROS2020][Depth Completion Via Inductive Fusion of Planar LIDAR and Monocular Camera ](https://ras.papercept.net/proceedings/IROS20/1560.pdf)面雷达深度补全
 
 [IROS2020][Depth Estimation from Monocular Images and Sparse Radar Data](https://ras.papercept.net/proceedings/IROS20/1623.pdf)
+
 [IROS2020][Balanced Depth Completion between Dense Depth Inference and Sparse Range Measurements Via KISS-GP](https://ras.papercept.net/proceedings/IROS20/2118.pdf)
+
 [IROS2020][]()
 [IROS2020][]()
 
@@ -98,13 +105,16 @@ with a Single Transient](https://www.ecva.net/papers/eccv_2020/papers_ECCV/paper
 
 [CVPR2020][IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for
 Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf) 双目目标检测
+
 [IROS2020][Confidence Guided Stereo 3D Object Detection with Split Depth Estimation](https://ras.papercept.net/proceedings/IROS20/0123.pdf) 双目融合深度目标检测
 
 [IROS2020][]()
 
 [CVPR2020][Learning Depth-Guided Convolutions for Monocular 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
+
 ## Depth application  
 [ECCV2020][Dual Grid Net: Hand Mesh Vertex Regression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
+
 [ICRA2019][Plug-and-Play: Improve Depth Prediction via Sparse Data Propagation](https://arxiv.org/pdf/1812.08350.pdf)
 ##  Monocular 6D Object Pose Estimation
 [ECCV2020]Self6D: Self-Supervised Monocular 6D Object Pose Estimation
