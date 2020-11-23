@@ -111,6 +111,7 @@ Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_
 [IROS2020][]()
 
 [CVPR2020][Learning Depth-Guided Convolutions for Monocular 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
+[11.23][Learning Monocular 3D Vehicle Detection without 3D Bounding Box Labels](https://lukaskoestler.com/ldwl)
 
 ## Depth application  
 [ECCV2020][Dual Grid Net: Hand Mesh Vertex Regression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
