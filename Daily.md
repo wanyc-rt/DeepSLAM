@@ -1,5 +1,12 @@
 ## 科研笔记
+## 11.26
+#突发奇想1  可以用融合IMU估计位姿的方法来约束深度估计
+#突发奇想2  在深度补全网络中，加入光流的3Dloss(IROS20)
+#突发奇想3  可以将光流和深度组成一个多任务实时网络进行位姿和深度估计联合网络并在TX2实验（self scene flow estimation)
 
+
+今天关注深度特征提取的方法,可不可以提出一种能够端到端的深度检测方法，类VO中的提取方法，这样就可以实现端到端深度SLAM了。
+从这篇文章出发[Deep Keypoint-Based Camera Pose Estimation with Geometric constraist](https://ras.papercept.net/proceedings/IROS20/0463.pdf)从特征提取，描述，匹配用学习方法代替传统方法，作者借用了superPoint([SuperPoint: Self-Supervised Interest Point Detection and Description](https://arxiv.org/pdf/1712.07629.pdf)特征提取方法以及改进的[Deep Fundamental Matrix Estimation](http://vladlen.info/papers/deep-fundamental.pdf)基础矩阵求解方法结合，改进DFE求出F矩阵。度估计中可以用这种方法代替Pointnet试试效果
 ## 11.12 
 [IROS2020]DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR
 光流和深度 与下面文章有相似之处
