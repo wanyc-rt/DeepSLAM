@@ -1,4 +1,13 @@
 ## 科研笔记
+## 11.27
+
+[VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](https://arxiv.org/pdf/1904.10324.pdf)[code](https://github.com/eowjd0512/VITAMIN-E)稠密特征重建
+Deep Depth Estimation from Visual-Inertial SLAM
+Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
+Learning Monocular 3D Vehicle Detection without 3D Bounding Box Labels
+D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry
+
+
 ## 11.26
 #突发奇想1  可以用融合IMU估计位姿的方法来约束深度估计
 #突发奇想2  在深度补全网络中，加入光流的3Dloss(IROS20)
