@@ -1,4 +1,8 @@
 ## 科研笔记
+## 11.29 
+[github pull request](https://www.cnblogs.com/momo798/p/11599679.html)
+Video Depth Estimation by Fusing Flow-to-Depth Proposals 从Flow预测depth方法
+
 ## 11.27
 
 [VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](https://arxiv.org/pdf/1904.10324.pdf)[code](https://github.com/eowjd0512/VITAMIN-E)稠密特征重建
