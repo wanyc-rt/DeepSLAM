@@ -1,7 +1,7 @@
 ## 科研笔记
 ## 11.30 
 室内语义分割
-sparse convolution[MinkowskiEngine]https://github.com/NVIDIA/MinkowskiEngine
+sparse convolution[MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine)
 
 ## 11.29 
 [github pull request](https://www.cnblogs.com/momo798/p/11599679.html)
