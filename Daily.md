@@ -1,4 +1,8 @@
 ## 科研笔记
+## 11.30 
+室内语义分割
+sparse convolution[MinkowskiEngine]https://github.com/NVIDIA/MinkowskiEngine
+
 ## 11.29 
 [github pull request](https://www.cnblogs.com/momo798/p/11599679.html)
 Video Depth Estimation by Fusing Flow-to-Depth Proposals 从Flow预测depth方法
