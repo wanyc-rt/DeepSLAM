@@ -1,4 +1,11 @@
 ## 科研笔记
+## 12.2
+1.ME(Minkowski Enginge)Sparse Convelution 原理与用法
+2.TensorRT Tenfei的depthe fusion DSO
+3.语义分割
+
+
+
 ## 11.30 
 室内语义分割
 sparse convolution[MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine)
