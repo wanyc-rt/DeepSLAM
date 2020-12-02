@@ -1,7 +1,13 @@
 ## 科研笔记
 ## 12.2
 1.ME(Minkowski Enginge)Sparse Convelution 原理与用法
+1.1 3D稀疏卷积原理与应用
+- 4D-SpatioTemporal ConvNets: Minkowski Convolutional Neural Networks, CVPR'19
+- Fully Convolutional Geometric Features, ICCV, 2019
+- Generative Sparse Detection Networks for 3D Single-shot Object Detection
+
 2.TensorRT Tenfei的depthe fusion DSO
+
 3.语义分割
 
 
