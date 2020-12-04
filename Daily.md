@@ -2,6 +2,7 @@
 ## 12.4
 深度估计和光流联合估计，然后用orb-slam来监督并在test过程中Refine网络
 深度网络和光流估计出场景流+位姿，然后用实例mask作为边界去对动态物体进行6dof估计和重建（在DF网络上加入实例分割网络）
+DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency
 
 ## 12.2
 1.ME(Minkowski Enginge)Sparse Convelution 原理与用法
