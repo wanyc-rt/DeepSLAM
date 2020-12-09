@@ -1,6 +1,7 @@
 ## 科研笔记
-
-
+## 12.8 
+[ DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution](https://github.com/joe-siyuan-qiao/DetectoRS)
+[Self-Supervised Scene De-occlusion](https://www.cnblogs.com/luckforefforts/p/13665484.html)
 ## 12.4
 深度估计和光流联合估计，然后用orb-slam来监督并在test过程中Refine网络
 深度网络和光流估计出场景流+位姿，然后用实例mask作为边界去对动态物体进行6dof估计和重建（在DF网络上加入实例分割网络）
