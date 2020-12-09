@@ -1,5 +1,5 @@
 ## 科研笔记
-[Pattern Recognition and Image Processing](https://lmb.informatik.uni-freiburg.de/Publications/index.php?pg=3)
+
 
 ## 12.4
 深度估计和光流联合估计，然后用orb-slam来监督并在test过程中Refine网络
