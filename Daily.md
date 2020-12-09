@@ -5,12 +5,12 @@
 [Self-Supervised Scene De-occlusion](https://www.cnblogs.com/luckforefforts/p/13665484.html)自监督去遮挡
 
 ### 深度联合语义分割，可不可以改为实例，并用实例提高深度和语义，并且实现动态物体分割。并用光流网络估计位姿
-### 光流和深度在非结构运动中的估计
+### 光流和深度在非结构运动中的估计（非刚体区域去除）
 - 论文GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose
   - rigid structure reconstructor
   - nonrigid motion localizer respectively
   Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video 光流与深度的关联
-
+用光流估计网络来约束，前后帧之间深度的训练
 
 ## 12.4
 深度估计和光流联合估计，然后用orb-slam来监督并在test过程中Refine网络
