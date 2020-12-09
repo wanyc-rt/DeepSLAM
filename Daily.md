@@ -6,10 +6,10 @@
 
 ### 深度联合语义分割，可不可以改为实例，并用实例提高深度和语义，并且实现动态物体分割。并用光流网络估计位姿
 ### 光流和深度在非结构运动中的估计（非刚体区域去除）
-- 论文GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose
+- 论文[GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/pdf/1803.02276.pdf)
   - rigid structure reconstructor
   - nonrigid motion localizer respectively
-- Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video 光流与深度的关联
+- [Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video](https://arxiv.org/pdf/1908.10553.pdf) 光流与深度的关联
    用光流估计网络来约束，前后帧之间深度的训练
 
 ## 12.4
