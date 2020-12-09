@@ -4,7 +4,11 @@
 
 [Self-Supervised Scene De-occlusion](https://www.cnblogs.com/luckforefforts/p/13665484.html)自监督去遮挡
 
-深度联合语义分割，可不可以改为实例，并用实例提高深度和语义，并且实现动态物体分割。并用光流网络估计位姿
+### 深度联合语义分割，可不可以改为实例，并用实例提高深度和语义，并且实现动态物体分割。并用光流网络估计位姿
+### 光流和深度在非结构运动中的估计
+- 论文GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose
+  - rigid structure reconstructor
+  - nonrigid motion localizer respectively
 
 
 ## 12.4
