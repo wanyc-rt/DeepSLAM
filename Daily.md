@@ -9,6 +9,7 @@
 - 论文GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose
   - rigid structure reconstructor
   - nonrigid motion localizer respectively
+  Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video 光流与深度的关联
 
 
 ## 12.4
