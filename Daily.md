@@ -1,4 +1,10 @@
 ## 科研笔记
+## 无监督object 6DOF:https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/obj_motion_net.html
+[基于图像的动态物体估计总结](https://blog.csdn.net/qq_26623879/article/details/106085106)
+
+
+
+
 ## 12.8 
 [ DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution](https://github.com/joe-siyuan-qiao/DetectoRS)实例分割
 
