@@ -4,6 +4,8 @@ https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/obj_motion_net
 
 [基于图像的动态物体估计总结](https://blog.csdn.net/qq_26623879/article/details/106085106)
 
+[Semantically-Guided Representation Learning for Self-Supervised Monocular Depth语义引导深度](https://adriengaidon.com/publication/2020-04-26-Semantically-Guided-Representation-Learning-for-Self-Supervised-Monocular-Depth) 
+
 
 
 
