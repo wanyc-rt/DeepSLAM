@@ -5,7 +5,7 @@
 ## 12.9 
 ### 无监督object 6DOF estimation 
 https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/obj_motion_net.html
-
+Learning Independent Object Motion from Unlabelled Stereoscopic Videos (ICAR19)本文从深度位姿估计开始借助光流,用ROI的2D特帧自动生成该目标的mask并将它对应到3D Motion中,实现估计场景中独立运动物体的运动速度和方向.
 [基于图像的动态物体估计总结](https://blog.csdn.net/qq_26623879/article/details/106085106)
 
 [Semantically-Guided Representation Learning for Self-Supervised Monocular Depth语义引导深度](https://adriengaidon.com/publication/2020-04-26-Semantically-Guided-Representation-Learning-for-Self-Supervised-Monocular-Depth) 
