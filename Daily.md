@@ -30,6 +30,7 @@ https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/obj_motion_net
 Watching Videos
 ## 用self-scene estimation 进行无3Dbox运动估计
 - [Self-supervised Object Motion and Depth Estimation from Video](https://arxiv.org/pdf/1912.04250.pdf)
+![image1](https://github.com/alluserman/DeepSLAM/blob/main/image/typora_picture/Screenshot%20from%202020-12-11%2011-03-21.png)
 - [Robust Ego and Object 6-DoF Motion Estimation and Tracking](https://arxiv.org/pdf/2007.13993.pdf)
 
 ## 12.4
