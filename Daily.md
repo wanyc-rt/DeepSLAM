@@ -23,6 +23,8 @@ https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/obj_motion_net
   - nonrigid motion localizer respectively
 - [Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video](https://arxiv.org/pdf/1908.10553.pdf) 光流与深度的关联
    用光流估计网络来约束，前后帧之间深度的训练
+- UnOS: Unified Unsupervised Optical-flow and Stereo-depth Estimation by
+Watching Videos
 ## 用self-scene estimation 进行无3Dbox运动估计
 - [Self-supervised Object Motion and Depth Estimation from Video](https://arxiv.org/pdf/1912.04250.pdf)
 - [Robust Ego and Object 6-DoF Motion Estimation and Tracking](https://arxiv.org/pdf/2007.13993.pdf)
