@@ -1,4 +1,8 @@
 ## 科研笔记
+## 12.13
+Unsupervised Depth Completion From Visual Inertial Odometry[!重要] (用VIO稀疏深度提高单目深度估计结果)
+从这篇文章风格出发对其进行改进
+
 ## 12.11 
 双目无监督连续深度光流ego-motion和3D object 6DoF 估计
 
