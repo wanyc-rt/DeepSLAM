@@ -1,4 +1,10 @@
 ## 科研笔记
+## 12.19 
+[Robust Dense Mapping for Large-Scale Dynamic Environments](https://arxiv.org/pdf/1905.02781.pdf) 双目重建代码
+
+[Code](http://andreibarsan.github.io/dynslam) 
+
+
 ## 12.13
 Unsupervised Depth Completion From Visual Inertial Odometry[!重要] (用VIO稀疏深度提高单目深度估计结果)
 从这篇文章风格出发对其进行改进
