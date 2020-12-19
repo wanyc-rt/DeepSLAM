@@ -1,8 +1,8 @@
 ## 科研笔记
 ## 12.19 
 [Robust Dense Mapping for Large-Scale Dynamic Environments](https://arxiv.org/pdf/1905.02781.pdf) 双目重建代码
-
 [Code](http://andreibarsan.github.io/dynslam) 
+[Exploiting Semantic and Public Prior Information in MonoSLAM](https://ras.papercept.net/proceedings/IROS20/1418.pdf)使用一个预先训练过的开源语义分割网络(DeepLabV3+)扩展了ORB-SLAM2，以结合来自开放街道地图构建轨迹数据的先验信息。
 
 
 ## 12.13
