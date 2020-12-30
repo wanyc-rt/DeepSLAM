@@ -2,6 +2,8 @@
 12.30
 [Learning Rigidity in Dynamic Scenes with a Moving Camera for 3D Motion Field Estimation (ECCV 2018)](https://github.com/NVlabs/learningrigidity)
 
+[GeoNet](https://github.com/yzcjtr/GeoNet)
+
 ## 12.19 
 [Robust Dense Mapping for Large-Scale Dynamic Environments](https://arxiv.org/pdf/1905.02781.pdf) 双目重建代码
 [Code](http://andreibarsan.github.io/dynslam) 
