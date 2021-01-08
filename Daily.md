@@ -1,4 +1,7 @@
 ## 科研笔记
+1.8
+Metrically-Scaled Monocular SLAM using Learned Scale Factors
+
 12.30
 [Learning Rigidity in Dynamic Scenes with a Moving Camera for 3D Motion Field Estimation (ECCV 2018)](https://github.com/NVlabs/learningrigidity)
 
