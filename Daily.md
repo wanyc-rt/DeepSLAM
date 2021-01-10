@@ -2,7 +2,7 @@
 ## 1.10
 [FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow](https://arxiv.org/pdf/2003.05102.pdf)
 
-[StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments]（https://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_scona.pdf）
+[StaticFusion: Background Reconstruction for Dense RGB-D SLAM in Dynamic Environments](https://www.robots.ox.ac.uk/~mobile/Papers/2018ICRA_scona.pdf)
 ## 1.8
 
 Metrically-Scaled Monocular SLAM using Learned Scale Factors
