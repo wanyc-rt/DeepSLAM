@@ -1,7 +1,11 @@
 ## 科研笔记
 ## 1.12 
 [Mono-SF: Multi-View Geometry Meets Single-View Depth for Monocular Scene Flow Estimation of Dynamic Traffic Scenes](https://arxiv.org/pdf/1908.06316.pdf)
+
 单目场景流估计在动态的traffic scenes
+
+[Self-Supervised Deep Visual Odometry with Online Adaptation](https://arxiv.org/pdf/2005.06136.pdf)
+
 
 ## 1.10
 [FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow](https://arxiv.org/pdf/2003.05102.pdf)
