@@ -1,4 +1,7 @@
 ## 科研笔记
+## 1.15
+DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
+
 ## 1.12 
 [Mono-SF: Multi-View Geometry Meets Single-View Depth for Monocular Scene Flow Estimation of Dynamic Traffic Scenes](https://arxiv.org/pdf/1908.06316.pdf)
 
