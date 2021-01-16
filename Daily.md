@@ -1,4 +1,7 @@
 ## 科研笔记
+## 1.16
+Every pixel counts++:Joint learning of geometry and motion with 3d holistic understanding(联合运动估计)
+
 ## 1.15
 DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image
 
