@@ -1,4 +1,15 @@
 ## 科研笔记
+## 1.23
+MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera
+
+DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR 稀疏雷达点生成场景流
+
+[PWOC-3D: Deep Occlusion-Aware End-to-End Scene Flow Estimation](https://arxiv.org/pdf/1904.06116v1.pdf)场景流 
+
+[Self-Supervised Monocular Scene Flow Estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hur_Self-Supervised_Monocular_Scene_Flow_Estimation_CVPR_2020_paper.pdf)
+
+
+
 ## 1.20 
 
 PWOC-3D: Deep Occlusion-Aware End-to-End Scene Flow Estimation
