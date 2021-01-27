@@ -1,4 +1,7 @@
 ## 科研笔记
+## 1.27
+VOLDOR: Visual Odometry from Log-logistic Dense Optical flow Residuals
+
 ## 1.23
 MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments from a Single Moving Camera
 
