@@ -1,4 +1,8 @@
 ## 科研笔记
+
+## 1.31
+[DEEPV2D: VIDEO TO DEPTH WITH DIFFERENTIABLE STRUCTURE FROM MOTION](https://arxiv.org/pdf/1812.04605.pdf)
+
 ## 1.27
 VOLDOR: Visual Odometry from Log-logistic Dense Optical flow Residuals
 
