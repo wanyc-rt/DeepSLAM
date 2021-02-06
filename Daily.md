@@ -1,5 +1,8 @@
 ## 科研笔记
 
+## 2.6
+[Robust Dense Mapping for Large-Scale Dynamic Environments](https://github.com/AndreiBarsan/DynSLAM)
+
 ## 1.31
 [DEEPV2D: VIDEO TO DEPTH WITH DIFFERENTIABLE STRUCTURE FROM MOTION](https://arxiv.org/pdf/1812.04605.pdf)
 
