@@ -1,4 +1,6 @@
 ## 科研笔记
+## 2.18
+[Joint Unsupervised Learning of Optical Flow and Depth by Watching Stereo Video](https://xueshu.baidu.com/usercenter/paper/show?paperid=1y7806d0jv5p0jj0kd7p0au0xk142344&site=xueshu_se)
 
 ## 2.6
 [Robust Dense Mapping for Large-Scale Dynamic Environments](https://github.com/AndreiBarsan/DynSLAM)
