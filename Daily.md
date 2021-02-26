@@ -1,4 +1,7 @@
 ## 科研笔记
+## 2.26
+DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image 法线引导深度， RGB与深度融合 
+ 
 ## 2.18
 [Joint Unsupervised Learning of Optical Flow and Depth by Watching Stereo Video](https://xueshu.baidu.com/usercenter/paper/show?paperid=1y7806d0jv5p0jj0kd7p0au0xk142344&site=xueshu_se)
 
