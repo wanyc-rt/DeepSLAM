@@ -1,4 +1,7 @@
 ## 科研笔记
+## VIO 
+[Robocentric Visual-Inertial Odometry](https://github.com/rpng/R-VIO)
+[Towards End-to-end Learning of Visual Inertial Odometry with an EKF](Deep VIO)
 ## 2.26
 DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image 法线引导深度， RGB与深度融合 
  
