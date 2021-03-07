@@ -1,5 +1,13 @@
 ## 科研笔记
-## VIO 
+## 3.7 
+[Occlusion-Aware Depth Estimation with Adaptive Normal Constraints]()
+[-refinement-and-normal-estimation](https://github.com/rossimattia/depth-refinement-and-normal-estimation)
+[DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR)
+[single-image-surface-normal-estimation](https://github.com/dfan/single-image-surface-normal-estimation)
+
+
+##  3.5
+VIO 
 [Robocentric Visual-Inertial Odometry](https://github.com/rpng/R-VIO)
 [Towards End-to-end Learning of Visual Inertial Odometry with an EKF](Deep VIO)
 ## 2.26
