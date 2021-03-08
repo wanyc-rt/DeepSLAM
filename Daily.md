@@ -1,4 +1,8 @@
 ## 科研笔记
+## 3.8
+深度补全融合深度方法
+ Learning Guided Convolutional Network for Dept Completion
+
 ## 3.7 
 [Occlusion-Aware Depth Estimation with Adaptive Normal Constraints]()
 [-refinement-and-normal-estimation](https://github.com/rossimattia/depth-refinement-and-normal-estimation)
