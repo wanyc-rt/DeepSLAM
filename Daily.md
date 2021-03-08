@@ -5,8 +5,11 @@
 
 ## 3.7 
 [Occlusion-Aware Depth Estimation with Adaptive Normal Constraints]()
+
 [-refinement-and-normal-estimation](https://github.com/rossimattia/depth-refinement-and-normal-estimation)
+
 [DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR)
+
 [single-image-surface-normal-estimation](https://github.com/dfan/single-image-surface-normal-estimation)
 
 
