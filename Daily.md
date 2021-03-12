@@ -1,7 +1,7 @@
 ## 科研笔记
 3.12
 
-[yolact-opencv-dnn-cpp-python](https://github.com/hpc203/yolact-opencv-dnn-cpp-python)
+[yolact-opencv-dnn-cpp-python](https://github.com/hpc203/yolact-opencv-dnn-cpp-python) yolact c++
 
 
 
