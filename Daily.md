@@ -3,8 +3,11 @@
 
 ## 
 双目深度估计-王强 
-[FADNet: A Fast and Accurate Network for Disparity Estimation](https://github.com/HKBU-HPML/FADNet)
+[FADNet: A Fast and Accurate Network for Disparity Estimation](https://github.com/HKBU-HPML/FADNet).
+
 双目数据集 https://arxiv.org/abs/1912.09678
+
+双目实时[HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching](https://arxiv.org/pdf/2007.12140v3.pdf)
 
 ## 3.12
 
