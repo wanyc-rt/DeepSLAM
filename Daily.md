@@ -1,5 +1,11 @@
 ## 科研笔记
-3.12
+
+
+## 
+双目深度估计-王强 
+[FADNet: A Fast and Accurate Network for Disparity Estimation](https://github.com/HKBU-HPML/FADNet)
+
+## 3.12
 
 [yolact-opencv-dnn-cpp-python](https://github.com/hpc203/yolact-opencv-dnn-cpp-python) yolact c++
 
