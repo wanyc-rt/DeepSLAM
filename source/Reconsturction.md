@@ -1,6 +1,10 @@
 
 
 ## 4.14
+[BARF : Bundle-Adjusting Neural Radiance Fields](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF)
+
+
+
 NeRF++:
 Analyzing and Improving Neural Radiance Fields
 
