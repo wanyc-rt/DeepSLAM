@@ -1,4 +1,14 @@
 ## 科研笔记
+## 4.28
+Learning Selective Self-Mutual Attention for RGB-D Saliency Detection [S2MA](https://github.com/nnizhang/S2MA)
+
+[OPENslam](https://github.com/surfii3z/openvslam)
+
+[Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf)
+
+[]
+
+
 ## 4.26 
 
 [Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection](https://arxiv.org/pdf/2103.16470.pdf)
