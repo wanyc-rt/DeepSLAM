@@ -6,7 +6,10 @@
 
 室内数据集
 https://www.sohu.com/a/255813949_610300
+
 https://interiornet.org/
+
+https://www.cnblogs.com/tofengz/p/13122400.html
 
 家具数据集
 3D-FUTURE: 3D Furniture shape with TextURE
