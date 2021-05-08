@@ -4,6 +4,13 @@
 [SENSE: a Shared Encoder for Scene Flow Estimation](https://github.com/NVlabs/SENSE)
 多任务光流，深度，语义联合估计
 
+室内数据集
+https://www.sohu.com/a/255813949_610300
+https://interiornet.org/
+
+家具数据集
+3D-FUTURE: 3D Furniture shape with TextURE
+
 
 ## 4.28
 Learning Selective Self-Mutual Attention for RGB-D Saliency Detection [S2MA](https://github.com/nnizhang/S2MA)
