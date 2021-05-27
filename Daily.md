@@ -1,4 +1,13 @@
 ## 科研笔记
+## 5.28
+法向量构建方法
+
+Enforcing geometric constraints of virtual normal for depth prediction
+
+SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
+
+
+
 ## 5.19
 [Video Depth Estimation by Fusing Flow-to-Depth Proposals ](https://github.com/jiaxinxie97/Video-depth-estimation)
 
