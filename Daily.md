@@ -6,6 +6,7 @@ Enforcing geometric constraints of virtual normal for depth prediction
 
 SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection
 
+3D Object Detection with Normal-map on Point Clouds
 
 
 ## 5.19
