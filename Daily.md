@@ -1,8 +1,14 @@
 ## 科研笔记
+## 7.12
+Variational Transformer Networks for Layout Generation
+
+End-to-End Video Instance Segmentation with Transformers
 ## 7.7 
 
 [Learning to Recover 3D Scene Shape from a Single Image](https://arxiv.org/pdf/2012.09365.pdf)
+
 [DiverseDepth: Affine-invariant Depth Prediction Using Diverse Data](https://arxiv.org/pdf/2002.00569.pdf)
+
 [Enforcing geometric constraints of virtual normal for depth prediction](https://arxiv.org/pdf/1907.12209.pdf)
 
 ### 6.17
