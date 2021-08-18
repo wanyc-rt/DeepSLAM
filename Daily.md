@@ -1,4 +1,12 @@
 ## 科研笔记
+## 8.18
+
+NeuralRecon：单目视频的实时Coherent 三维重建
+NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video
+
+Learning to Recover 3D Scene Shape from a Single Image  单面深度估计+尺度恢复
+
+
 ## 7.12
 Variational Transformer Networks for Layout Generation
 
