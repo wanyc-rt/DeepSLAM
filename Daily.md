@@ -1,4 +1,7 @@
 ## 科研笔记
+## 8.21 
+VR3Dense: Voxel Representation Learning for 3D Object Detection and Monocular Depth Reconstruction   2D 3D 融合
+
 ## 8.18
 
 NeuralRecon：单目视频的实时Coherent 三维重建
