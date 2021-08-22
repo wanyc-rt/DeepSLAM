@@ -1,4 +1,8 @@
 ## 科研笔记
+### 8.22 3d语义分割
+OccuSeg: Occupancy-aware 3D Instance Segmentation 3D实例分割
+
+
 ## 8.21 
 VR3Dense: Voxel Representation Learning for 3D Object Detection and Monocular Depth Reconstruction   2D 3D 融合
 
