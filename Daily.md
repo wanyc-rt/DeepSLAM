@@ -1,6 +1,7 @@
 ## 科研笔记
 ### 8.26
 Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency(2D mask 连续性估计)
+[LEARNING A SPATIO-TEMPORAL EMBEDDING FOR VIDEO INSTANCE SEGMENTATION](https://arxiv.org/pdf/1912.08969.pdf)
 
 ### 8.22 3d语义分割
 OccuSeg: Occupancy-aware 3D Instance Segmentation 3D实例分割
